@@ -108,6 +108,6 @@
     "edition": "octane"
   },
   "dependencies": {
-    "ember-intl": "^6.5.2"
+    "ember-intl": "^6.2.2"
   }
 }
